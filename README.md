@@ -29,6 +29,15 @@ This automation script solves that problem by:
 - Supporting preview mode (`--dry-run`) to ensure safety  
 
 This ensures that all photos follow a consistent naming format and are neatly organized by year and month.
+## 📢 Official Blog Submission (AI for Bharat – Week 2)
+
+As part of the Kiro Week 2: Lazy Automation challenge, I documented the entire problem, approach, solution, and development process in a detailed blog published on AWS Builder Center.
+
+You can read the full blog here:
+
+🔗 **AWS Builder Center Blog:**  
+https://builder.aws.com/content/36WpDNZIRY5dGoJTTAAsF459YoX/automating-my-photo-organization-workflow-using-python-kiro-week-2-lazy-automation
+
 
 ---
 
@@ -229,13 +238,3 @@ Happy Automating! 🚀
 
 
 ---
-
-# 🎉 Your README is now **formal**, **professional**, **descriptive**, and **perfect for evaluation**.
-
-If you'd like:
-
-✅ I can now generate your **AWS Builder Center blog post**  
-✅ Or help you create the **examples/** folder  
-✅ Or verify your GitHub repo structure  
-
-Just tell me: **“blog draft please”** or **“check my repo”**.
