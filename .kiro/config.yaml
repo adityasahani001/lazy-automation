@@ -1,2 +1,11 @@
-project: lazy-automation
-description: "Automation script for Kiro Week 2 challenge"
+project: lazy-photo-sorter
+description: "Kiro config showing commands used to accelerate development"
+commands:
+  - name: install
+    run: pip install -r requirements.txt
+  - name: run-dry
+    run: python3 src/rename_photos.py --source ./examples/incoming --dest ./examples/sorted --dry-run
+  - name: run
+    run: python3 src/rename_photos.py --source ./examples/incoming --dest ./examples/sorted
+notes:
+  - "Use Kiro to run the 'run-dry' command during development and capture terminal recording."
