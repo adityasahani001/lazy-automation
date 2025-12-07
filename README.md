@@ -226,7 +226,7 @@ This repository satisfies all requirements:
 
 🙌 Acknowledgments
 
-This project was developed as part of the AI for Bharat Fellowship Program,
+This project was developed as part of the AI for Bharat  Program,
 under the Kiro Week-2: Lazy Automation module.
 Thanks to the organizers and mentors for enabling hands-on learning through practical projects.
 
@@ -234,6 +234,9 @@ Thanks to the organizers and mentors for enabling hands-on learning through prac
 
 Feel free to reach out via GitHub Issues or connect through the AI for Bharat community channels for any queries, suggestions, or improvements.
 
+- **Email:** aditya.sahani.cs27@iilm.edu
+- **GitHub:** https://github.com/adityasahani001
+- **LinkedIn:** https://www.linkedin.com/in/aditya-sahani-0955b02ab  
 Happy Automating! 🚀
 
 
