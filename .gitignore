@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IMPORTANT: Do NOT ignore the .kiro folder
+!.kiro/
